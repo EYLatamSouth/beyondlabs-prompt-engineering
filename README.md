@@ -1,4 +1,4 @@
-# 🚀 Prompt Engineering Hub
+# 🚀 BeyondLabs - Prompt Engineering
 
 > Elevando a arte e a ciência da interação com IA
 
