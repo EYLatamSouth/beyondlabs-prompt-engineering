@@ -143,8 +143,14 @@ O contexto e a especificidade são conceitos fundamentais em Engenharia de Promp
 - [Testes e iteração de Prompt](07_prompt_testing_and_iteration.md)
 - [Considerações Éticas em Engenhência de Prompt](08_ethical_considerations.md)
 
+## Contribuição
+
+Encontrou um erro ou tem uma sugestão? Por favor, abra uma [issue](https://github.com/beyondlabs-prompt-engineering/prompt-engineering/issues) ou envie um [pull request](https://github.com/beyondlabs-prompt-engineering/prompt-engineering/pulls).
+
+---
+
 <div align="center">
-  <a href="#índice">Voltar ao Índice</a> | 
-  <a href="{https://github.com/AF2B/Prompt-Engineering}">Sobre este Projeto</a> | 
-  <a href="{https://github.com/AF2B/Prompt-Engineering/blob/main/LICENSE}">Licença</a>
+  <a href="#índice">Voltar ao Índice</a> |
+  <a href="https://github.com/EYLatamSouth/beyondlabs-prompt-engineering">Sobre este Projeto</a> | 
+  <a href="https://github.com/EYLatamSouth/beyondlabs-prompt-engineering/blob/main/LICENSE">Licença</a>
 </div>
