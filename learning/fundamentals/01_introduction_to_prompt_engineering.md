@@ -56,3 +56,29 @@ Como resultado, o Prompt 2 tem muito mais probabilidade de gerar um resumo infor
 ## Conclusão
 
 O Prompt Engineering é uma habilidade crucial na era da IA. Dominar essa disciplina permite que você extraia o máximo valor dos modelos de linguagem, transformando-os em ferramentas poderosas e precisas para uma ampla gama de aplicações. Nos próximos capítulos, exploraremos cada aspecto do Prompt Engineering em detalhes, fornecendo exemplos práticos e técnicas avançadas para aprimorar suas habilidades.
+
+## Navegação
+
+- [Próximo: Estrutura Básica de Prompts](02_basic_prompt_structure.md)
+
+## Tópicos Relacionados
+
+- [Estrutura Básica de Prompts](02_basic_prompt_structure.md)
+- [Tipos de Prompts](03_types_of_prompts.md)
+- [Contexto e Especificidade](04_context_and_specificity.md)
+- [Componentes do Prompt](05_prompt_components.md)
+- [Erros comuns em Prompts](06_common_pitfalls.md)
+- [Testes e iteração de Prompt](07_prompt_testing_and_iteration.md)
+- [Considerações Éticas em Engenhência de Prompt](08_ethical_considerations.md)
+
+## Contribuição
+
+Encontrou um erro ou tem uma sugestão? Por favor, abra uma [issue](https://github.com/beyondlabs-prompt-engineering/prompt-engineering/issues) ou envie um [pull request](https://github.com/beyondlabs-prompt-engineering/prompt-engineering/pulls).
+
+---
+
+<div align="center">
+  <a href="#índice">Voltar ao Índice</a> |
+  <a href="https://github.com/EYLatamSouth/beyondlabs-prompt-engineering">Sobre este Projeto</a> | 
+  <a href="https://github.com/EYLatamSouth/beyondlabs-prompt-engineering/blob/main/LICENSE">Licença</a>
+</div>
