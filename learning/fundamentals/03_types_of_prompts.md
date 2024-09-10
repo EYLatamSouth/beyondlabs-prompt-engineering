@@ -1,5 +1,18 @@
 # Tipos de Prompts em Engenharia de Prompt
 
+## Índice
+- [Introdução](#introdução)
+- [1. Prompts de Instrução Direta](#1-prompts-de-instrução-direta)
+- [2. Prompts de Contexto](#2-prompts-de-contexto)
+- [3. Prompts de Poucos Exemplos (Few-Shot)](#3-prompts-de-poucos-exemplos-few-shot)
+- [4. Prompts de Cadeia de Pensamento (Chain-of-Thought)](#4-prompts-de-cadeia-de-pensamento-chain-of-thought)
+- [5. Prompts de Refinamento Iterativo](#5-prompts-de-refinamento-iterativo)
+- [Comparação Visual dos Tipos de Prompts](#comparação-visual-dos-tipos-de-prompts)
+- [Conclusão](#conclusão)
+- [Navegação](#navegação)
+- [Tópicos Relacionados](#tópicos-relacionados)
+- [Contribuição](#contribuição)
+
 ## Introdução
 
 A Engenharia de Prompt é uma disciplina em rápida evolução que se tornou fundamental para otimizar o desempenho de modelos de linguagem de IA. Neste capítulo, exploraremos os principais tipos de prompts utilizados nesta prática. Compreender esses diferentes tipos não apenas ampliará seu repertório técnico, mas também o capacitará a escolher a abordagem mais eficaz para cada situação específica.
@@ -196,3 +209,29 @@ Para facilitar a compreensão das diferenças entre os tipos de prompts, vamos v
 ### Conclusão
 Compreender e aplicar efetivamente diferentes tipos de prompts é uma habilidade crucial em Engenharia de Prompt. Cada tipo tem suas forças e é adequado para diferentes situações. Experimentar com vários tipos de prompts e combiná-los criativamente pode levar a resultados mais precisos e úteis em uma ampla gama de aplicações de IA.
 Lembre-se, a escolha do tipo de prompt deve ser guiada pelo contexto específico, a complexidade da tarefa e o resultado desejado. Praticar com diferentes tipos de prompts ajudará você a desenvolver intuição sobre qual abordagem funciona melhor para cada situação.
+
+## Navegação
+- [Anterior: Estrutura Básica de Prompts](02_basic_prompt_structure.md)
+- [Próximo: Contexto e Especificidade](04_context_and_specificity.md)
+
+## Tópicos Relacionados
+
+- [Introdução à Engenharia de Prompt](01_introduction_to_prompt_engineering.md)
+- [Estrutura Básica de Prompts](02_basic_prompt_structure.md)
+- [Contexto e Especificidade](04_context_and_specificity.md)
+- [Componentes do Prompt](05_prompt_components.md)
+- [Erros comuns em Prompts](06_common_pitfalls.md)
+- [Testes e iteração de Prompt](07_prompt_testing_and_iteration.md)
+- [Considerações Éticas em Engenharia de Prompt](08_ethical_considerations.md)
+
+## Contribuição
+
+Encontrou um erro ou tem uma sugestão? Por favor, abra uma [issue](https://github.com/beyondlabs-prompt-engineering/prompt-engineering/issues) ou envie um [pull request](https://github.com/beyondlabs-prompt-engineering/prompt-engineering/pulls).
+
+---
+
+<div align="center">
+  <a href="#índice">Voltar ao Índice</a> |
+  <a href="https://github.com/EYLatamSouth/beyondlabs-prompt-engineering">Sobre este Projeto</a> | 
+  <a href="https://github.com/EYLatamSouth/beyondlabs-prompt-engineering/blob/main/LICENSE">Licença</a>
+</div>
