@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=https://json.schemastore.org/github-workflow.json
+
+topics:
+  - id: "01_introduction_to_prompt_engineering"
+    title: "Introdução à Engenharia de Prompt"
+    file: "01_introduction_to_prompt_engineering.md"
+    previous: null
+    next: "02_basic_prompt_structure"
+    related:
+      - "02_basic_prompt_structure"
+      - "03_types_of_prompts"
+      - "04_context_and_specificity"
+
+  - id: "02_basic_prompt_structure"
+    title: "Estrutura Básica de Prompts"
+    file: "02_basic_prompt_structure.md"
+    previous: "01_introduction_to_prompt_engineering"
+    next: "03_types_of_prompts"
+    related:
+      - "01_introduction_to_prompt_engineering"
+      - "02_basic_prompt_structure"
+      - "03_types_of_prompts"
+
+  # TODO: Add more topics here!
+
+global_links:
+  index: "README.md"
+  about: "about.md"
+  license: "LICENSE"
+  issues: "https://github.com/AF2B/prompt-engineering/issues"
+  pull_requests: "https://github.com/AF2B/prompt-engineering/pulls"
