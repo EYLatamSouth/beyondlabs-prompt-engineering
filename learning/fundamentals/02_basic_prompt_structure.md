@@ -1,5 +1,18 @@
 # Estrutura Básica de Prompts
 
+## Índice
+- [Componentes de um Prompt](#componentes-de-um-prompt)
+  - [1. Contexto](#1-contexto)
+  - [2. Instrução](#2-instrução)
+  - [3. Entrada](#3-entrada)
+  - [4. Formato de Saída](#4-formato-de-saída)
+- [Combinando Componentes](#combinando-componentes)
+- [Fluxo de Criação de Prompts](#fluxo-de-criação-de-prompts)
+- [Conclusão](#conclusão)
+- [Navegação](#navegação)
+- [Tópicos Relacionados](#tópicos-relacionados)
+- [Contribuição](#contribuição)
+
 A estrutura de um prompt eficaz é fundamental para obter os melhores resultados de um modelo de linguagem. Neste capítulo, exploraremos os componentes essenciais de um prompt bem estruturado e como combiná-los para máxima eficácia.
 
 ## Componentes de um Prompt
@@ -132,3 +145,29 @@ Este exemplo combina várias técnicas:
 ## Conclusão
 
 A estruturação eficaz de prompts é uma habilidade fundamental em Prompt Engineering. Ao combinar contexto, instruções claras, entradas relevantes e especificações de saída, você pode guiar modelos de linguagem para produzir resultados mais precisos e úteis. Pratique combinando diferentes técnicas e componentes para criar prompts poderosos e eficazes.
+
+## Navegação
+- [Anterior: Introdução à Engenharia de Prompt](01_introduction_to_prompt_engineering.md)
+- [Próximo: Estrutura Básica de Prompts](03_types_of_prompts.md)
+
+## Tópicos Relacionados
+
+- [Estrutura Básica de Prompts](01_introduction_to_prompt_engineering.md)
+- [Tipos de Prompts](03_types_of_prompts.md)
+- [Contexto e Especificidade](04_context_and_specificity.md)
+- [Componentes do Prompt](05_prompt_components.md)
+- [Erros comuns em Prompts](06_common_pitfalls.md)
+- [Testes e iteração de Prompt](07_prompt_testing_and_iteration.md)
+- [Considerações Éticas em Engenhência de Prompt](08_ethical_considerations.md)
+
+## Contribuição
+
+Encontrou um erro ou tem uma sugestão? Por favor, abra uma [issue](https://github.com/beyondlabs-prompt-engineering/prompt-engineering/issues) ou envie um [pull request](https://github.com/beyondlabs-prompt-engineering/prompt-engineering/pulls).
+
+---
+
+<div align="center">
+  <a href="#índice">Voltar ao Índice</a> |
+  <a href="https://github.com/EYLatamSouth/beyondlabs-prompt-engineering">Sobre este Projeto</a> | 
+  <a href="https://github.com/EYLatamSouth/beyondlabs-prompt-engineering/blob/main/LICENSE">Licença</a>
+</div>
