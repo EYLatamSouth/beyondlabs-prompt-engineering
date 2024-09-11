@@ -1,13 +1,16 @@
 # Constitutional AI - Anthropic
 
+## Índice
+- [Fonte Principal](#fonte-principal)
+- [Pontos-chave](#pontos-chave)
+- [Aplicações em Prompt Engineering](#aplicações-em-prompt-engineering)
+- [Limitações e Considerações](#limitações-e-considerações)
+- [Navegação](#navegação)
+
 ## Fonte Principal
 Artigo: "Constitutional AI: Harmlessness from AI Feedback"
 Autores: Yuntao Bai, et al.
 Link: https://arxiv.org/abs/2212.08073
-
-## Resumo
-
-Constitutional AI é uma abordagem desenvolvida pela Anthropic para criar modelos de IA mais seguros e alinhados com valores humanos. O método envolve treinar modelos de linguagem para seguir um conjunto de regras ou "constituição" que define comportamentos desejáveis e indesejáveis.
 
 ## Pontos-chave
 
@@ -32,3 +35,13 @@ Constitutional AI é uma abordagem desenvolvida pela Anthropic para criar modelo
 
 - A eficácia depende da qualidade e abrangência das regras definidas
 - Pode haver trade-offs entre aderência estrita às regras e flexibilidade em certos contextos
+
+## Navegação
+- [Anterior: Google Prompt Engineering Study](google_prompt_engineering_study.md)
+- [Voltar para Articles](..)
+
+<div align="center">
+  <a href="#índice">Voltar ao Índice</a> |
+  <a href="https://github.com/EYLatamSouth/beyondlabs-prompt-engineering">Sobre este Projeto</a> | 
+  <a href="https://github.com/EYLatamSouth/beyondlabs-prompt-engineering/blob/main/LICENSE">Licença</a>
+</div>

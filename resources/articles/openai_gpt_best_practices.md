@@ -1,13 +1,16 @@
 # OpenAI GPT Best Practices
 
+## Índice
+- [Fonte Principal](#fonte-principal)
+- [Pontos-chave](#pontos-chave)
+- [Aplicações em Prompt Engineering](#aplicações-em-prompt-engineering)
+- [Limitações e Considerações](#limitações-e-considerações)
+- [Navegação](#navegação)
+
 ## Fonte Principal
 Documento: "GPT Best Practices"
 Autor: OpenAI
 Link: https://platform.openai.com/docs/guides/gpt-best-practices
-
-## Resumo
-
-A OpenAI fornece um guia abrangente de melhores práticas para usar efetivamente seus modelos GPT. Este documento cobre estratégias para melhorar a qualidade das respostas, lidar com limitações do modelo e otimizar o desempenho em várias tarefas.
 
 ## Pontos-chave
 
@@ -42,3 +45,13 @@ A OpenAI fornece um guia abrangente de melhores práticas para usar efetivamente
 
 - As práticas podem precisar de ajustes para diferentes versões do modelo
 - Algumas técnicas podem aumentar o uso de tokens, afetando custos e velocidade
+
+## Navegação
+- [Próximo: Google Prompt Engineering Study](google_prompt_engineering_study.md)
+- [Voltar para Articles](..)
+
+<div align="center">
+  <a href="#índice">Voltar ao Índice</a> |
+  <a href="https://github.com/EYLatamSouth/beyondlabs-prompt-engineering">Sobre este Projeto</a> | 
+  <a href="https://github.com/EYLatamSouth/beyondlabs-prompt-engineering/blob/main/LICENSE">Licença</a>
+</div>

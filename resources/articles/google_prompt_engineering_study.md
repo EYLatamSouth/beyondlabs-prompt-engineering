@@ -1,13 +1,16 @@
 # Google Prompt Engineering Study
 
+## Índice
+- [Fonte Principal](#fonte-principal)
+- [Pontos-chave](#pontos-chave)
+- [Aplicações em Prompt Engineering](#aplicações-em-prompt-engineering)
+- [Limitações e Considerações](#limitações-e-considerações)
+- [Navegação](#navegação)
+
 ## Fonte Principal
 Artigo: "Prompt Engineering for Large Language Models: A Survey"
 Autores: Pengfei Liu, et al.
 Link: https://arxiv.org/abs/2303.18223
-
-## Resumo
-
-Este estudo abrangente do Google Research oferece uma visão geral sistemática das técnicas de Prompt Engineering para Modelos de Linguagem Grandes (LLMs). O artigo examina várias estratégias, desafios e direções futuras neste campo em rápida evolução.
 
 ## Pontos-chave
 
@@ -40,3 +43,14 @@ Este estudo abrangente do Google Research oferece uma visão geral sistemática 
 
 - O campo está em rápida evolução, algumas técnicas podem se tornar obsoletas
 - A eficácia das técnicas pode variar entre diferentes modelos e versões
+
+## Navegação
+- [Anterior: OpenAI GPT Best Practices](openai_gpt_best_practices.md)
+- [Próximo: Constitutional AI - Anthropic](constitutional_ai_anthropic.md)
+- [Voltar para Articles](..)
+
+<div align="center">
+  <a href="#índice">Voltar ao Índice</a> |
+  <a href="https://github.com/EYLatamSouth/beyondlabs-prompt-engineering">Sobre este Projeto</a> | 
+  <a href="https://github.com/EYLatamSouth/beyondlabs-prompt-engineering/blob/main/LICENSE">Licença</a>
+</div>
