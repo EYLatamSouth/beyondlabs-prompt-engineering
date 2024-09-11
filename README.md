@@ -16,6 +16,19 @@ Prompt Engineering é a prática sofisticada de projetar, refinar e otimizar ins
 - 🛠️ Resolver problemas complexos de forma mais eficiente
 - 🚀 Melhorar o desempenho em uma ampla gama de tarefas
 
+## 🚀 Início Rápido
+
+Pronto para mergulhar no mundo da Engenharia de Prompt? Escolha seu caminho:
+
+| Se você quer... | Comece aqui |
+|-----------------|-------------|
+| 📚 Aprender os fundamentos | [Introdução à Engenharia de Prompt](learning/fundamentals/README.md) |
+| 💡 Ver exemplos práticos | [Galeria de Exemplos](examples/README.md) |
+| 🧠 Explorar técnicas avançadas | [Técnicas Avançadas](learning/advanced_techniques/README.md) |
+| 🛠️ Encontrar ferramentas úteis | [Recursos e Ferramentas](resources/README.md) |
+
+Não importa seu nível de experiência, temos conteúdo para todos. Escolha um ponto de partida e comece sua jornada na Engenharia de Prompt hoje!
+
 ## 🗺️ Navegando pelo Repositório
 
 Nossa estrutura é projetada para fornecer uma experiência de aprendizado e uso intuitiva:
