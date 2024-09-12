@@ -118,6 +118,20 @@ Para uma compreensão visual dos componentes do prompt, considere adicionar uma 
 - [Próximo: Erros comuns](06_common_pitfalls.md)
 - [Voltar para Fundamentos](.)
 
+## Tópicos Relacionados
+- [Introdução à Engenharia de Prompt](01_introduction_to_prompt_engineering.md)
+- [Estrutura Básica de Prompts](02_basic_prompt_structure.md)
+- [Tipos de Prompts](03_types_of_prompts.md)
+- [Contexto e Especificidade](04_context_and_specificity.md)
+- [Erros comuns em Prompts](../../assets/utils/NOT_FOUND.md)
+- [Considerações Éticas em Engenharia de Prompt](../../assets/utils/NOT_FOUND.md)
+
+## Contribuição
+
+Encontrou um erro ou tem uma sugestão? Por favor, abra uma [issue](../../assets/utils/NOT_FOUND.md) ou envie um [pull request](../../assets/utils/NOT_FOUND.md).
+
+---
+
 <div align="center">
   <a href="#índice">Voltar ao Índice</a> |
   <a href="https://github.com/EYLatamSouth/beyondlabs-prompt-engineering">Sobre este Projeto</a> | 

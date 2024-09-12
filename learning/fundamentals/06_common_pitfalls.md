@@ -147,7 +147,7 @@ Evitar esses erros comuns em Engenharia de Prompt pode melhorar significativamen
 
 ## Navegação
 - [Anterior: Componentes do Prompt](05_prompt_components.md)
-- [Próximo: Testes e Iteração de Prompt](07_prompt_testing_and_iteration.md)
+- [Próximo: Testes e Iteração de Prompt](../../assets/utils/NOT_FOUND.md)
 
 ## Tópicos Relacionados
 - [Introdução à Engenharia de Prompt](01_introduction_to_prompt_engineering.md)
