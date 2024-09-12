@@ -31,10 +31,12 @@ Nesta seção, você será introduzido aos conceitos básicos e cruciais da enge
    - Como fornecer contexto adequado
    - A importância da especificidade nos prompts
 
-5. [Técnicas Fundamentais](05_fundamental_techniques.md)
-   - Priming
-   - Few-shot learning
-   - Chain-of-thought
+5. [Componentes de Prompts](05_prompt_components.md)
+   - Componentes principais (Contexto, Instrução, Entrada, Indicador de Saída)
+   - Componentes avançados (Exemplos, Persona, Formato de Saída)
+
+6. [Erros Comuns](06_common_pitfalls.md)
+   - Identificação e prevenção de erros frequentes na engenharia de prompts
 
 ## 🗺️ Como navegar
 
