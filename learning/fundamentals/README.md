@@ -45,9 +45,9 @@ Cada tópico é apresentado em um arquivo markdown separado, numerado em ordem s
 
 Após dominar os fundamentos, você estará preparado para:
 
-- Explorar técnicas avançadas em nossa seção de [Aprendizado Avançado]
-- Analisar exemplos práticos em nossa [Galeria de Exemplos]
-- Experimentar com prompts na seção de [Playground]
+- [Explorar técnicas avançadas em nossa seção de Aprendizado Avançado](../../assets/utils/NOT_FOUND.md)
+- [Analisar exemplos práticos em nossa Galeria de Exemplos](../../assets/utils/NOT_FOUND.md)
+- [Experimentar com prompts na seção de Playground](../../assets/utils/NOT_FOUND.md)
 
 ## 💡 Dica
 
