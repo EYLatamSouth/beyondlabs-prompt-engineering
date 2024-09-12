@@ -15,7 +15,6 @@ Nesta seção, você será introduzido aos conceitos básicos e cruciais da enge
 
 1. [Introdução à Engenharia de Prompt](01_introduction_to_prompt_engineering.md)
    - O que é e por que é importante
-   - História e evolução da técnica
 
 2. [Estrutura Básica de Prompts](02_basic_prompt_structure.md)
    - Componentes de um prompt eficaz
