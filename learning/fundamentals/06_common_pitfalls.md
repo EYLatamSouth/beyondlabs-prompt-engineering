@@ -155,8 +155,8 @@ Evitar esses erros comuns em Engenharia de Prompt pode melhorar significativamen
 - [Tipos de Prompts](03_types_of_prompts.md)
 - [Contexto e Especificidade](04_context_and_specificity.md)
 - [Componentes do Prompt](05_prompt_components.md)
-- [Testes e Iteração de Prompt](../../assets/utils/NOT_FOUND.md)
-- [Considerações Éticas em Engenharia de Prompt](../../assets/utils/NOT_FOUND.md)
+- [Testes e Iteração de Prompt](07_prompt_testing_and_iteration.md)
+- [Considerações Éticas em Engenharia de Prompt](08_ethical_considerations.md)
 
 ## Contribuição
 
