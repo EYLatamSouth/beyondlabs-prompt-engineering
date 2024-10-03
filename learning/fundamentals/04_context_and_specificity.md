@@ -1,6 +1,7 @@
 # Contexto e Especificidade em Engenharia de Prompt
 
 ## Índice
+
 - [Introdução](#introdução)
 - [O Papel do Contexto](#o-papel-do-contexto)
 - [A Importância da Especificidade](#a-importância-da-especificidade)
@@ -18,6 +19,7 @@ A Engenharia de Prompt é uma disciplina complexa que requer muito mais do que s
 O contexto fornece informações importantes que ajudam o modelo a compreender melhor a tarefa e gerar respostas mais relevantes. Alguns usos comuns do contexto incluem:
 
 1. **Definição de Persona**:
+
 ```yaml
 persona:
   role: civil engineer
@@ -38,6 +40,7 @@ output: |
 ```
 
 2. **Informações de Domínio**:
+
 ```yaml
 domain:
   topic: financial market analysis
@@ -46,6 +49,7 @@ prompt: Você é um especialista em análise de mercado financeiro. Avalie os pr
 ```
 
 3. **Restrições e Requisitos**:
+
 ```xml
 <prompt>
   <context>
@@ -80,6 +84,7 @@ Além do contexto, a especificidade do prompt também é crucial. Prompts genér
 Algumas técnicas para aumentar a especificidade incluem:
 
 1. **Decomposição de Tarefas**:
+
 ```markdown
 PROMPT:
 1. Identifique os principais marcos na história da computação.
@@ -88,6 +93,7 @@ PROMPT:
 ```
 
 2. **Exemplos Concretos**:
+
 ```yaml
 prompt:
   task: Calculate the bending moment of a simply supported beam
@@ -110,6 +116,7 @@ prompt:
 ```
 
 3. **Requisitos de Saída**:
+
 ```yaml
 prompt:
   task: Write a report
@@ -123,18 +130,22 @@ prompt:
 ```
 
 ## Considerações Práticas
+
 - Evite fornecer contexto ou especificidade em excesso, o que pode sobrecarregar ou confundir o modelo.
 - Teste e refine seus prompts iterativamente para encontrar o equilíbrio ideal entre contexto e especificidade.
 - Documente os prompts e os resultados em seu repositório de Engenharia de Prompt para referência futura e melhoria contínua.
 
 ## Conclusão
+
 O contexto e a especificidade são conceitos fundamentais em Engenharia de Prompt. Ao combiná-los de forma eficaz, você pode criar prompts poderosos que orientam os modelos de linguagem a produzirem resultados relevantes, precisos e alinhados com suas necessidades. Continuar a explorar e refinar essas técnicas é essencial para se tornar um especialista em Engenharia de Prompt.
 
 ## Navegação
+
 - [Anterior: Tipos de Prompts](03_types_of_prompts.md)
 - [Próximo: Componentes do prompt](05_prompt_components.md)
 
 ## Tópicos Relacionados
+
 - [Introdução à Engenharia de Prompt](01_introduction_to_prompt_engineering.md)
 - [Estrutura Básica de Prompts](02_basic_prompt_structure.md)
 - [Tipos de Prompts](03_types_of_prompts.md)
@@ -151,6 +162,6 @@ Encontrou um erro ou tem uma sugestão? Por favor, abra uma [issue](https://gith
 
 <div align="center">
   <a href="#índice">Voltar ao Índice</a> |
-  <a href="https://github.com/EYLatamSouth/beyondlabs-prompt-engineering">Sobre este Projeto</a> | 
+  <a href="https://github.com/EYLatamSouth/beyondlabs-prompt-engineering">Sobre este Projeto</a> |
   <a href="https://github.com/EYLatamSouth/beyondlabs-prompt-engineering/blob/main/LICENSE">Licença</a>
 </div>
