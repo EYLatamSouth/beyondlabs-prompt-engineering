@@ -7,11 +7,9 @@
 - [Importância do Prompt Chaining](#importância-do-prompt-chaining)
 - [Estrutura e Componentes do Prompt Chaining](#estrutura-e-componentes-do-prompt-chaining)
 - [Casos de Uso e Exemplos Práticos](#casos-de-uso-e-exemplos-práticos)
-- [Ferramentas e Frameworks](#ferramentas-e-frameworks)
 - [Embasamento Científico e Pesquisas](#embasamento-científico-e-pesquisas)
 - [Melhores Práticas e Considerações Éticas](#melhores-práticas-e-considerações-éticas)
 - [Desafios e Limitações](#desafios-e-limitações)
-- [Futuro do Prompt Chaining](#futuro-do-prompt-chaining)
 - [Conclusão](#conclusão)
 
 ## Introdução
