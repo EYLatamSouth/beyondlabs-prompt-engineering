@@ -7,11 +7,9 @@
 - [Importância do Tree of Thought](#importância-do-tree-of-thought)
 - [Estrutura e Componentes do Tree of Thought](#estrutura-e-componentes-do-tree-of-thought)
 - [Casos de Uso e Exemplos Práticos](#casos-de-uso-e-exemplos-práticos)
-- [Ferramentas e Frameworks](#ferramentas-e-frameworks)
 - [Embasamento Científico e Pesquisas](#embasamento-científico-e-pesquisas)
-- [Melhores Práticas e Considerações Éticas](#melhores-práticas-e-considerações-éticas)
+- [Melhores Práticas para Implementação de Prompts Usando Tree of Thought (ToT)](#melhores-práticas-para-implementação-de-prompts-usando-tree-of-thought-tot)
 - [Desafios e Limitações](#desafios-e-limitações)
-- [Futuro do Tree of Thought](#futuro-do-tree-of-thought)
 - [Conclusão](#conclusão)
 
 ## Introdução
