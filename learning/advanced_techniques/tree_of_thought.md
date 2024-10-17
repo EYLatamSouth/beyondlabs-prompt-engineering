@@ -2,15 +2,33 @@
 
 ## Índice
 
-- [Introdução](#introdução)
-- [O que é Tree of Thought?](#o-que-é-tree-of-thought)
-- [Importância do Tree of Thought](#importância-do-tree-of-thought)
-- [Estrutura e Componentes do Tree of Thought](#estrutura-e-componentes-do-tree-of-thought)
-- [Casos de Uso e Exemplos Práticos](#casos-de-uso-e-exemplos-práticos)
-- [Embasamento Científico e Pesquisas](#embasamento-científico-e-pesquisas)
-- [Melhores Práticas para Implementação de Prompts Usando Tree of Thought (ToT)](#melhores-práticas-para-implementação-de-prompts-usando-tree-of-thought-tot)
-- [Desafios e Limitações](#desafios-e-limitações)
-- [Conclusão](#conclusão)
+- [Tree of Thought: Técnicas Avançadas em Engenharia de Prompt](#tree-of-thought-técnicas-avançadas-em-engenharia-de-prompt)
+  - [Índice](#índice)
+  - [Introdução](#introdução)
+  - [O que é Tree of Thought?](#o-que-é-tree-of-thought)
+    - [Definição Técnica](#definição-técnica)
+  - [Importância do Tree of Thought](#importância-do-tree-of-thought)
+  - [Estrutura e Componentes do Tree of Thought](#estrutura-e-componentes-do-tree-of-thought)
+    - [Exemplo de Estrutura](#exemplo-de-estrutura)
+  - [Casos de Uso e Exemplos Práticos](#casos-de-uso-e-exemplos-práticos)
+    - [1. Resolução de Problemas Matemáticos Complexos](#1-resolução-de-problemas-matemáticos-complexos)
+    - [2. Análise de Cenários em Estratégia de Negócios](#2-análise-de-cenários-em-estratégia-de-negócios)
+    - [3. Análise de Decisões Complexas](#3-análise-de-decisões-complexas)
+  - [Embasamento Científico e Pesquisas](#embasamento-científico-e-pesquisas)
+  - [Melhores Práticas para Implementação de Prompts Usando Tree of Thought (ToT)](#melhores-práticas-para-implementação-de-prompts-usando-tree-of-thought-tot)
+    - [1. Diversificação de Caminhos de Pensamento](#1-diversificação-de-caminhos-de-pensamento)
+    - [2. Transparência e Rastreabilidade do Processo](#2-transparência-e-rastreabilidade-do-processo)
+    - [3. Equilíbrio entre Exploração e Eficiência](#3-equilíbrio-entre-exploração-e-eficiência)
+    - [4. Validação de Resultados Intermediários](#4-validação-de-resultados-intermediários)
+    - [5. Poda Inteligente](#5-poda-inteligente)
+    - [6. Mitigação de Vieses](#6-mitigação-de-vieses)
+    - [7. Modularidade e Adaptabilidade](#7-modularidade-e-adaptabilidade)
+    - [8. Ponto de Intervenção Humana](#8-ponto-de-intervenção-humana)
+  - [Desafios e Limitações](#desafios-e-limitações)
+  - [Conclusão](#conclusão)
+  - [Navegação](#navegação)
+  - [Tópicos Relacionados](#tópicos-relacionados)
+  - [Contribuição](#contribuição)
 
 ## Introdução
 
@@ -48,40 +66,32 @@ Um sistema ToT típico consiste em:
 
 ### Exemplo de Estrutura
 
-```python
-def tree_of_thought(problem, depth_limit=3, branch_factor=3):
-    root = generate_initial_thought(problem)
-    frontier = [root]
-    
-    while frontier and depth_limit > 0:
-        current = frontier.pop(0)
-        if is_solution(current, problem):
-            return current
-        
-        children = generate_thoughts(current, branch_factor)
-        evaluated_children = [(child, evaluate_thought(child)) for child in children]
-        frontier.extend([c for c, _ in sorted(evaluated_children, key=lambda x: x[1], reverse=True)])
-        
-        depth_limit -= 1
-    
-    return best_solution(frontier, problem)
+```markdown
+1. **Início**: Comece com um pensamento inicial sobre o problema.
 
-def generate_thoughts(parent, n):
-    # Gera n pensamentos derivados do pensamento pai
-    ...
+2. **Exploração**:
+   - Gere múltiplos pensamentos derivados do pensamento inicial.
+   - Avalie cada novo pensamento quanto à sua relevância e potencial.
 
-def evaluate_thought(thought):
-    # Avalia a qualidade do pensamento
-    ...
+3. **Seleção e Aprofundamento**:
+   - Escolha os pensamentos mais promissores.
+   - Para cada pensamento escolhido, repita o processo de geração e avaliação.
 
-def is_solution(thought, problem):
-    # Verifica se o pensamento resolve o problema
-    ...
+4. **Limitação**:
+   - Continue este processo até atingir uma profundidade predefinida ou encontrar uma solução.
 
-def best_solution(thoughts, problem):
-    # Seleciona a melhor solução entre os pensamentos disponíveis
-    ...
+5. **Solução**:
+   - Se uma solução for encontrada, encerre o processo.
+   - Caso contrário, selecione a melhor opção disponível entre os pensamentos gerados.
+
+6. **Avaliação Contínua**:
+   - Durante todo o processo, avalie constantemente se cada pensamento resolve o problema.
+
+7. **Refinamento**:
+   - Use as informações obtidas para refinar e melhorar os pensamentos subsequentes.
 ```
+
+Este processo permite uma exploração estruturada e profunda de diferentes linhas de pensamento, facilitando a descoberta de soluções criativas e eficazes para problemas complexos.
 
 ## Casos de Uso e Exemplos Práticos
 
@@ -125,6 +135,29 @@ Siga estas etapas:
 5. Compare os dois planos de ação e recomende o mais adequado, explicando sua escolha.
 
 Em cada etapa, mostre claramente seu raciocínio e considere múltiplos fatores como recursos da empresa, tendências de mercado e riscos potenciais.
+```
+
+### 3. Análise de Decisões Complexas
+
+**Cenário**: Um consultor de negócios precisa analisar uma decisão complexa de expansão de mercado para uma empresa de tecnologia.
+
+**Implementação ToT**:
+
+```markdown
+Você é um consultor estratégico especializado em análise de decisões complexas. Use a técnica de Tree of Thought para analisar a seguinte decisão de expansão de mercado:
+
+Uma empresa de tecnologia está considerando expandir para o mercado asiático. Eles têm duas opções principais: Índia ou Singapura.
+
+1. Gere três caminhos de pensamento diferentes para abordar esta decisão (por exemplo, análise financeira, considerações culturais, infraestrutura tecnológica).
+2. Para cada caminho de pensamento:
+a: Desenvolva uma análise detalhada considerando prós e contras.
+b: Avalie o potencial impacto a curto e longo prazo.
+c: Identifique possíveis riscos e oportunidades.
+3. Compare os três caminhos de pensamento e identifique pontos de interseção ou divergência significativos.
+4. Com base nesta análise abrangente, recomende a melhor opção de expansão e justifique sua escolha.
+5. Finalmente, sugira um plano de ação de alto nível para implementar sua recomendação.
+
+Em cada etapa, mostre claramente seu raciocínio e considere múltiplos fatores como ambiente de negócios, regulamentações, tamanho do mercado e disponibilidade de talentos.
 ```
 
 ## Embasamento Científico e Pesquisas
