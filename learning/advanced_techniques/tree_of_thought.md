@@ -279,6 +279,6 @@ Encontrou um erro ou tem uma sugestão? Por favor, abra uma [issue](https://gith
 
 <div align="center">
   <a href="#índice">Voltar ao Índice</a> |
-  <a href="https://github.com/seu-repositorio">Sobre este Projeto</a> |
-  <a href="https://github.com/seu-repositorio/blob/main/LICENSE">Licença</a>
+  <a href="https://github.com/EYLatamSouth/beyondlabs-prompt-engineering">Sobre este Projeto</a> |
+  <a href="https://github.com/EYLatamSouth/beyondlabs-prompt-engineering/blob/main/LICENSE">Licença</a>
 </div>
