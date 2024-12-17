@@ -1,17 +1,19 @@
 # Estrutura Básica de Prompts
 
 ## Índice
-- [Componentes de um Prompt](#componentes-de-um-prompt)
-  - [1. Contexto](#1-contexto)
-  - [2. Instrução](#2-instrução)
-  - [3. Entrada](#3-entrada)
-  - [4. Formato de Saída](#4-formato-de-saída)
-- [Combinando Componentes](#combinando-componentes)
-- [Fluxo de Criação de Prompts](#fluxo-de-criação-de-prompts)
-- [Conclusão](#conclusão)
-- [Navegação](#navegação)
-- [Tópicos Relacionados](#tópicos-relacionados)
-- [Contribuição](#contribuição)
+- [Estrutura Básica de Prompts](#estrutura-básica-de-prompts)
+  - [Índice](#índice)
+  - [Componentes de um Prompt](#componentes-de-um-prompt)
+    - [1. Contexto](#1-contexto)
+    - [2. Instrução](#2-instrução)
+    - [3. Entrada](#3-entrada)
+    - [4. Formato de Saída](#4-formato-de-saída)
+  - [Combinando Componentes](#combinando-componentes)
+  - [Fluxo de Criação de Prompts](#fluxo-de-criação-de-prompts)
+  - [Conclusão](#conclusão)
+  - [Navegação](#navegação)
+  - [Tópicos Relacionados](#tópicos-relacionados)
+  - [Contribuição](#contribuição)
 
 A estrutura de um prompt eficaz é fundamental para obter os melhores resultados de um modelo de linguagem. Neste capítulo, exploraremos os componentes essenciais de um prompt bem estruturado e como combiná-los para máxima eficácia.
 
@@ -162,7 +164,7 @@ A estruturação eficaz de prompts é uma habilidade fundamental em Prompt Engin
 
 ## Contribuição
 
-Encontrou um erro ou tem uma sugestão? Por favor, abra uma [issue](https://github.com/beyondlabs-prompt-engineering/prompt-engineering/issues) ou envie um [pull request](https://github.com/beyondlabs-prompt-engineering/prompt-engineering/pulls).
+Encontrou um erro ou tem uma sugestão? Por favor, abra uma [issue](https://github.com/EYLatamSouth/beyondlabs-prompt-engineering/issues) ou envie um [pull request](https://github.com/EYLatamSouth/beyondlabs-prompt-engineering/pulls).
 
 ---
 
