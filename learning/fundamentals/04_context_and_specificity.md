@@ -2,13 +2,16 @@
 
 ## Índice
 
-- [Introdução](#introdução)
-- [O Papel do Contexto](#o-papel-do-contexto)
-- [A Importância da Especificidade](#a-importância-da-especificidade)
-- [Considerações Práticas](#considerações-práticas)
-- [Conclusão](#conclusão)
-- [Navegação](#navegação)
-- [Tópicos Relacionados](#tópicos-relacionados)
+- [Contexto e Especificidade em Engenharia de Prompt](#contexto-e-especificidade-em-engenharia-de-prompt)
+  - [Índice](#índice)
+  - [Introdução](#introdução)
+  - [O Papel do Contexto](#o-papel-do-contexto)
+  - [A Importância da Especificidade](#a-importância-da-especificidade)
+  - [Considerações Práticas](#considerações-práticas)
+  - [Conclusão](#conclusão)
+  - [Navegação](#navegação)
+  - [Tópicos Relacionados](#tópicos-relacionados)
+  - [Contribuição](#contribuição)
 
 ## Introdução
 
@@ -156,7 +159,7 @@ O contexto e a especificidade são conceitos fundamentais em Engenharia de Promp
 
 ## Contribuição
 
-Encontrou um erro ou tem uma sugestão? Por favor, abra uma [issue](https://github.com/beyondlabs-prompt-engineering/prompt-engineering/issues) ou envie um [pull request](https://github.com/beyondlabs-prompt-engineering/prompt-engineering/pulls).
+Encontrou um erro ou tem uma sugestão? Por favor, abra uma [issue](https://github.com/EYLatamSouth/beyondlabs-prompt-engineering/issues) ou envie um [pull request](https://github.com/EYLatamSouth/beyondlabs-prompt-engineering/pulls).
 
 ---
 

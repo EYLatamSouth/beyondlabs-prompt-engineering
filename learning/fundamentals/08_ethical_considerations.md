@@ -1,20 +1,22 @@
 # Considerações Éticas em Engenharia de Prompt
 
 ## Índice
-- [Introdução](#introdução)
-- [Principais Considerações Éticas](#principais-considerações-éticas)
-  - [1. Viés e Discriminação](#1-viés-e-discriminação)
-  - [2. Privacidade e Segurança](#2-privacidade-e-segurança)
-  - [3. Desinformação e Manipulação](#3-desinformação-e-manipulação)
-  - [4. Transparência e Explicabilidade](#4-transparência-e-explicabilidade)
-  - [5. Impacto Social e Econômico](#5-impacto-social-e-econômico)
-- [Melhores Práticas para Engenharia de Prompt Ética](#melhores-práticas-para-engenharia-de-prompt-ética)
-- [Estudo de Caso: Engenharia de Prompt Ética na Prática](#estudo-de-caso-engenharia-de-prompt-ética-na-prática)
-- [Desafios Futuros e Considerações](#desafios-futuros-e-considerações)
-- [Conclusão](#conclusão)
-- [Navegação](#navegação)
-- [Tópicos Relacionados](#tópicos-relacionados)
-- [Contribuição](#contribuição)
+- [Considerações Éticas em Engenharia de Prompt](#considerações-éticas-em-engenharia-de-prompt)
+  - [Índice](#índice)
+  - [Introdução](#introdução)
+  - [Principais Considerações Éticas](#principais-considerações-éticas)
+    - [1. Viés e Discriminação](#1-viés-e-discriminação)
+    - [2. Privacidade e Segurança](#2-privacidade-e-segurança)
+    - [3. Desinformação e Manipulação](#3-desinformação-e-manipulação)
+    - [4. Transparência e Explicabilidade](#4-transparência-e-explicabilidade)
+    - [5. Impacto Social e Econômico](#5-impacto-social-e-econômico)
+  - [Melhores Práticas para Engenharia de Prompt Ética](#melhores-práticas-para-engenharia-de-prompt-ética)
+  - [Estudo de Caso: Engenharia de Prompt Ética na Prática](#estudo-de-caso-engenharia-de-prompt-ética-na-prática)
+  - [Desafios Futuros e Considerações](#desafios-futuros-e-considerações)
+  - [Conclusão](#conclusão)
+  - [Navegação](#navegação)
+  - [Tópicos Relacionados](#tópicos-relacionados)
+  - [Contribuição](#contribuição)
 
 ## Introdução
 
@@ -164,7 +166,7 @@ A engenharia de prompt ética é fundamental para garantir que os sistemas de IA
 
 ## Contribuição
 
-Encontrou um erro ou tem uma sugestão? Por favor, abra uma [issue](https://github.com/beyondlabs-prompt-engineering/prompt-engineering/issues) ou envie um [pull request](https://github.com/beyondlabs-prompt-engineering/prompt-engineering/pulls).
+Encontrou um erro ou tem uma sugestão? Por favor, abra uma [issue](https://github.com/EYLatamSouth/beyondlabs-prompt-engineering/issues) ou envie um [pull request](https://github.com/EYLatamSouth/beyondlabs-prompt-engineering/pulls).
 
 ---
 

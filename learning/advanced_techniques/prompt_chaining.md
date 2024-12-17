@@ -2,15 +2,24 @@
 
 ## Índice
 
-- [Introdução](#introdução)
-- [O que é Prompt Chaining?](#o-que-é-prompt-chaining)
-- [Importância do Prompt Chaining](#importância-do-prompt-chaining)
-- [Estrutura e Componentes do Prompt Chaining](#estrutura-e-componentes-do-prompt-chaining)
-- [Casos de Uso e Exemplos Práticos](#casos-de-uso-e-exemplos-práticos)
-- [Embasamento Científico e Pesquisas](#embasamento-científico-e-pesquisas)
-- [Melhores Práticas e Considerações Éticas](#melhores-práticas-e-considerações-éticas)
-- [Desafios e Limitações](#desafios-e-limitações)
-- [Conclusão](#conclusão)
+- [Prompt Chaining: Técnicas Avançadas em Engenharia de Prompt](#prompt-chaining-técnicas-avançadas-em-engenharia-de-prompt)
+  - [Índice](#índice)
+  - [Introdução](#introdução)
+  - [O que é Prompt Chaining?](#o-que-é-prompt-chaining)
+    - [Definição Técnica](#definição-técnica)
+  - [Importância do Prompt Chaining](#importância-do-prompt-chaining)
+  - [Estrutura e Componentes do Prompt Chaining](#estrutura-e-componentes-do-prompt-chaining)
+    - [Exemplo de Estrutura](#exemplo-de-estrutura)
+  - [Casos de Uso e Exemplos Práticos](#casos-de-uso-e-exemplos-práticos)
+    - [1. Análise de Sentimento em Múltiplas Etapas](#1-análise-de-sentimento-em-múltiplas-etapas)
+    - [2. Geração de Relatórios Médicos Automatizados](#2-geração-de-relatórios-médicos-automatizados)
+  - [Embasamento Científico e Pesquisas](#embasamento-científico-e-pesquisas)
+  - [Melhores Práticas e Considerações Éticas](#melhores-práticas-e-considerações-éticas)
+  - [Desafios e Limitações](#desafios-e-limitações)
+  - [Conclusão](#conclusão)
+  - [Navegação](#navegação)
+  - [Tópicos Relacionados](#tópicos-relacionados)
+  - [Contribuição](#contribuição)
 
 ## Introdução
 
@@ -233,7 +242,7 @@ prompt podem melhorar a precisão, a interpretabilidade e a eficiência dos mode
 
 ## Contribuição
 
-Encontrou um erro ou tem uma sugestão? Por favor, abra uma [issue](https://github.com/beyondlabs-prompt-engineering/prompt-engineering/issues) ou envie um [pull request](https://github.com/beyondlabs-prompt-engineering/prompt-engineering/pulls).
+Encontrou um erro ou tem uma sugestão? Por favor, abra uma [issue](https://github.com/EYLatamSouth/beyondlabs-prompt-engineering/issues) ou envie um [pull request](https://github.com/EYLatamSouth/beyondlabs-prompt-engineering/pulls).
 
 ---
 

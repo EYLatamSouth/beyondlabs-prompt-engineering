@@ -289,7 +289,7 @@ A escolha entre as diferentes técnicas deve ser baseada em uma análise cuidado
 
 ## Contribuição
 
-Encontrou um erro ou tem uma sugestão? Por favor, abra uma [issue](https://github.com/seu-repositorio/issues) ou envie um [pull request](https://github.com/seu-repositorio/pulls).
+Encontrou um erro ou tem uma sugestão? Por favor, abra uma [issue](https://github.com/EYLatamSouth/beyondlabs-prompt-engineering/issues) ou envie um [pull request](https://github.com/EYLatamSouth/beyondlabs-prompt-engineering/pulls).
 
 ---
 

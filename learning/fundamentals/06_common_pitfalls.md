@@ -1,19 +1,22 @@
 # Erros Comuns em Engenharia de Prompt
 
 ## Índice
-- [Introdução](#introdução)
-- [1. Falta de Especificidade](#1-falta-de-especificidade)
-- [2. Excesso de Informação](#2-excesso-de-informação)
-- [3. Contexto Inadequado](#3-contexto-inadequado)
-- [4. Instruções Ambíguas](#4-instruções-ambíguas)
-- [5. Negligência do Formato de Saída](#5-negligência-do-formato-de-saída)
-- [6. Ignorar Limitações do Modelo](#6-ignorar-limitações-do-modelo)
-- [7. Falta de Iteração](#7-falta-de-iteração)
-- [Exemplos Práticos](#exemplos-práticos)
-- [Conclusão](#conclusão)
-- [Navegação](#navegação)
-- [Tópicos Relacionados](#tópicos-relacionados)
-- [Contribuição](#contribuição)
+- [Erros Comuns em Engenharia de Prompt](#erros-comuns-em-engenharia-de-prompt)
+  - [Índice](#índice)
+  - [Introdução](#introdução)
+  - [1. Falta de Especificidade](#1-falta-de-especificidade)
+  - [2. Excesso de Informação](#2-excesso-de-informação)
+  - [3. Contexto Inadequado](#3-contexto-inadequado)
+  - [4. Instruções Ambíguas](#4-instruções-ambíguas)
+  - [5. Negligência do Formato de Saída](#5-negligência-do-formato-de-saída)
+  - [6. Ignorar Limitações do Modelo](#6-ignorar-limitações-do-modelo)
+  - [7. Falta de Iteração](#7-falta-de-iteração)
+  - [Exemplos Práticos](#exemplos-práticos)
+  - [Conclusão](#conclusão)
+  - [Navegação](#navegação)
+  - [Tópicos Relacionados](#tópicos-relacionados)
+  - [Contribuição](#contribuição)
+  - [Encontrou um erro ou tem uma sugestão? Por favor, abra uma issue ou envie um pull request.](#encontrou-um-erro-ou-tem-uma-sugestão-por-favor-abra-uma-issue-ou-envie-um-pull-request)
 
 ## Introdução
 
@@ -160,8 +163,7 @@ Evitar esses erros comuns em Engenharia de Prompt pode melhorar significativamen
 
 ## Contribuição
 
-Encontrou um erro ou tem uma sugestão? Por favor, abra uma [issue](../../assets/utils/NOT_FOUND.md) ou envie um [pull request](../../assets/utils/NOT_FOUND.md).
-
+Encontrou um erro ou tem uma sugestão? Por favor, abra uma [issue](https://github.com/EYLatamSouth/beyondlabs-prompt-engineering/issues) ou envie um [pull request](https://github.com/EYLatamSouth/beyondlabs-prompt-engineering/pulls).
 ---
 
 <div align="center">

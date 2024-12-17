@@ -1,19 +1,23 @@
 # Componentes de Prompts
 
 ## Índice
-- [Introdução](#introdução)
-- [Componentes Principais](#componentes-principais)
-  - [1. Contexto](#1-contexto)
-  - [2. Instrução](#2-instrução)
-  - [3. Entrada](#3-entrada)
-  - [4. Indicador de Saída](#4-indicador-de-saída)
-- [Componentes Avançados](#componentes-avançados)
-  - [5. Exemplos (Few-shot)](#5-exemplos-few-shot)
-  - [6. Persona](#6-persona)
-  - [7. Formato de Saída](#7-formato-de-saída)
-- [Exemplo Prático Detalhado](#exemplo-prático-detalhado)
-- [Melhores Práticas](#melhores-práticas)
-- [Navegação](#navegação)
+- [Componentes de Prompts](#componentes-de-prompts)
+  - [Índice](#índice)
+  - [Introdução](#introdução)
+  - [Componentes Principais](#componentes-principais)
+    - [1. Contexto](#1-contexto)
+    - [2. Instrução](#2-instrução)
+    - [3. Entrada](#3-entrada)
+    - [4. Indicador de Saída](#4-indicador-de-saída)
+  - [Componentes Avançados](#componentes-avançados)
+    - [5. Exemplos (Few-shot)](#5-exemplos-few-shot)
+    - [6. Persona](#6-persona)
+    - [7. Formato de Saída](#7-formato-de-saída)
+  - [Exemplo Prático Detalhado](#exemplo-prático-detalhado)
+  - [Melhores Práticas](#melhores-práticas)
+  - [Navegação](#navegação)
+  - [Tópicos Relacionados](#tópicos-relacionados)
+  - [Contribuição](#contribuição)
 
 ## Introdução
 
@@ -129,7 +133,7 @@ Para uma compreensão visual dos componentes do prompt, considere adicionar uma 
 
 ## Contribuição
 
-Encontrou um erro ou tem uma sugestão? Por favor, abra uma [issue](../../assets/utils/NOT_FOUND.md) ou envie um [pull request](../../assets/utils/NOT_FOUND.md).
+Encontrou um erro ou tem uma sugestão? Por favor, abra uma [issue](https://github.com/EYLatamSouth/beyondlabs-prompt-engineering/issues) ou envie um [pull request](https://github.com/EYLatamSouth/beyondlabs-prompt-engineering/pulls).
 
 ---
 

@@ -1,20 +1,22 @@
 # Testes e Iteração de Prompt
 
 ## Índice
-- [Introdução](#introdução)
-- [1. Importância dos Testes de Prompt](#1-importância-dos-testes-de-prompt)
-- [2. Metodologias de Teste](#2-metodologias-de-teste)
-  - [2.1 Testes A/B](#21-testes-ab)
-  - [2.2 Avaliação Qualitativa](#22-avaliação-qualitativa)
-  - [2.3 Métricas Quantitativas](#23-métricas-quantitativas)
-- [3. Processo de Iteração](#3-processo-de-iteração)
-- [4. Ferramentas e Técnicas](#4-ferramentas-e-técnicas)
-- [5. Estudo de Caso](#5-estudo-de-caso)
-- [6. Melhores Práticas](#6-melhores-práticas)
-- [Conclusão](#conclusão)
-- [Navegação](#navegação)
-- [Tópicos Relacionados](#tópicos-relacionados)
-- [Contribuição](#contribuição)
+- [Testes e Iteração de Prompt](#testes-e-iteração-de-prompt)
+  - [Índice](#índice)
+  - [Introdução](#introdução)
+  - [1. Importância dos Testes de Prompt](#1-importância-dos-testes-de-prompt)
+  - [2. Metodologias de Teste](#2-metodologias-de-teste)
+    - [2.1 Testes A/B](#21-testes-ab)
+    - [2.2 Avaliação Qualitativa](#22-avaliação-qualitativa)
+    - [2.3 Métricas Quantitativas](#23-métricas-quantitativas)
+  - [3. Processo de Iteração](#3-processo-de-iteração)
+  - [4. Ferramentas e Técnicas](#4-ferramentas-e-técnicas)
+  - [5. Estudo de Caso](#5-estudo-de-caso)
+  - [6. Melhores Práticas](#6-melhores-práticas)
+  - [Conclusão](#conclusão)
+  - [Navegação](#navegação)
+  - [Tópicos Relacionados](#tópicos-relacionados)
+  - [Contribuição](#contribuição)
 
 ## Introdução
 
@@ -144,7 +146,7 @@ O teste e a iteração de prompts são processos contínuos e essenciais na Enge
 
 ## Contribuição
 
-Encontrou um erro ou tem uma sugestão? Por favor, abra uma [issue](../../assets/utils/NOT_FOUND.md) ou envie um [pull request](../../assets/utils/NOT_FOUND.md).
+Encontrou um erro ou tem uma sugestão? Por favor, abra uma [issue](https://github.com/EYLatamSouth/beyondlabs-prompt-engineering/issues) ou envie um [pull request](https://github.com/EYLatamSouth/beyondlabs-prompt-engineering/pulls).
 
 ---
 

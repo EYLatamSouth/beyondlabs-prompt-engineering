@@ -22,6 +22,7 @@
   - [Navegação](#navegação)
   - [Tópicos Relacionados](#tópicos-relacionados)
   - [Contribuição](#contribuição)
+  - [Encontrou um erro ou tem uma sugestão? Por favor, abra uma issue ou envie um pull request.](#encontrou-um-erro-ou-tem-uma-sugestão-por-favor-abra-uma-issue-ou-envie-um-pull-request)
 
 ## Introdução
 
@@ -140,8 +141,7 @@ A Solicitação de Estímulo Direcional representa uma evolução significativa 
 
 ## Contribuição
 
-Encontrou um erro ou tem uma sugestão? Por favor, abra uma [issue](https://github.com/seu-repositorio/issues) ou envie um [pull request](https://github.com/seu-repositorio/pulls).
-
+Encontrou um erro ou tem uma sugestão? Por favor, abra uma [issue](https://github.com/EYLatamSouth/beyondlabs-prompt-engineering/issues) ou envie um [pull request](https://github.com/EYLatamSouth/beyondlabs-prompt-engineering/pulls).
 ---
 
 <div align="center">

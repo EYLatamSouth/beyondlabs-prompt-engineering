@@ -1,14 +1,19 @@
 # Introdução ao Prompt Engineering
 
 ## Índice
-- [O que é Prompt Engineering?](#o-que-é-prompt-engineering)
-- [Por que o Prompt Engineering é importante?](#por-que-o-prompt-engineering-é-importante)
-- [Exemplo prático: A diferença que um bom prompt faz](#exemplo-prático-a-diferença-que-um-bom-prompt-faz)
-- [Princípios fundamentais do Prompt Engineering](#princípios-fundamentais-do-prompt-engineering)
-- [Conclusão](#conclusão)
-- [Navegação](#navegação)
-- [Tópicos Relacionados](#tópicos-relacionados)
-- [Contribuição](#contribuição)
+- [Introdução ao Prompt Engineering](#introdução-ao-prompt-engineering)
+  - [Índice](#índice)
+  - [O que é Prompt Engineering?](#o-que-é-prompt-engineering)
+  - [Por que o Prompt Engineering é importante?](#por-que-o-prompt-engineering-é-importante)
+  - [Exemplo prático: A diferença que um bom prompt faz](#exemplo-prático-a-diferença-que-um-bom-prompt-faz)
+    - [Prompt 1 (Básico):](#prompt-1-básico)
+    - [Prompt 2 (Engenharia de Prompt):](#prompt-2-engenharia-de-prompt)
+    - [Análise da diferença:](#análise-da-diferença)
+  - [Princípios fundamentais do Prompt Engineering](#princípios-fundamentais-do-prompt-engineering)
+  - [Conclusão](#conclusão)
+  - [Navegação](#navegação)
+  - [Tópicos Relacionados](#tópicos-relacionados)
+  - [Contribuição](#contribuição)
 
 ## O que é Prompt Engineering?
 
@@ -83,7 +88,7 @@ O Prompt Engineering é uma habilidade crucial na era da IA. Dominar essa discip
 
 ## Contribuição
 
-Encontrou um erro ou tem uma sugestão? Por favor, abra uma [issue](https://github.com/beyondlabs-prompt-engineering/prompt-engineering/issues) ou envie um [pull request](https://github.com/beyondlabs-prompt-engineering/prompt-engineering/pulls).
+Encontrou um erro ou tem uma sugestão? Por favor, abra uma [issue](https://github.com/EYLatamSouth/beyondlabs-prompt-engineering/issues) ou envie um [pull request](https://github.com/EYLatamSouth/beyondlabs-prompt-engineering/pulls).
 
 ---
 

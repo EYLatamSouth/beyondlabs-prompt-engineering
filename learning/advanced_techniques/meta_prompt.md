@@ -2,17 +2,26 @@
 
 ## Índice
 
-- [Introdução](#introdução)
-- [O que são Meta Prompts?](#o-que-são-meta-prompts)
-- [Importância dos Meta Prompts](#importância-dos-meta-prompts)
-- [Estrutura e Componentes dos Meta Prompts](#estrutura-e-componentes-dos-meta-prompts)
-- [Casos de Uso e Exemplos Práticos](#casos-de-uso-e-exemplos-práticos)
-- [Ferramentas e Frameworks](#ferramentas-e-frameworks)
-- [Embasamento Científico e Pesquisas](#embasamento-científico-e-pesquisas)
-- [Melhores Práticas e Considerações Éticas](#melhores-práticas-e-considerações-éticas)
-- [Desafios e Limitações](#desafios-e-limitações)
-- [Futuro dos Meta Prompts](#futuro-dos-meta-prompts)
-- [Conclusão](#conclusão)
+- [Meta Prompts: Técnicas Avançadas em Engenharia de Prompt](#meta-prompts-técnicas-avançadas-em-engenharia-de-prompt)
+  - [Índice](#índice)
+  - [Introdução](#introdução)
+  - [O que são Meta Prompts?](#o-que-são-meta-prompts)
+    - [Definição Técnica](#definição-técnica)
+  - [Importância dos Meta Prompts](#importância-dos-meta-prompts)
+  - [Estrutura e Componentes dos Meta Prompts](#estrutura-e-componentes-dos-meta-prompts)
+    - [Exemplo de Estrutura](#exemplo-de-estrutura)
+  - [Casos de Uso e Exemplos Práticos](#casos-de-uso-e-exemplos-práticos)
+    - [1. Geração de Conteúdo Personalizado](#1-geração-de-conteúdo-personalizado)
+    - [2. Análise de Sentimento Contextual](#2-análise-de-sentimento-contextual)
+  - [Ferramentas e Frameworks](#ferramentas-e-frameworks)
+  - [Embasamento Científico e Pesquisas](#embasamento-científico-e-pesquisas)
+  - [Melhores Práticas e Considerações Éticas](#melhores-práticas-e-considerações-éticas)
+  - [Desafios e Limitações](#desafios-e-limitações)
+  - [Futuro dos Meta Prompts](#futuro-dos-meta-prompts)
+  - [Conclusão](#conclusão)
+  - [Navegação](#navegação)
+  - [Tópicos Relacionados](#tópicos-relacionados)
+  - [Contribuição](#contribuição)
 
 ## Introdução
 
@@ -262,7 +271,7 @@ A contínua pesquisa e desenvolvimento nesta área provavelmente levará a novos
 
 ## Contribuição
 
-Encontrou um erro ou tem uma sugestão? Por favor, abra uma [issue](https://github.com/beyondlabs-prompt-engineering/prompt-engineering/issues) ou envie um [pull request](https://github.com/beyondlabs-prompt-engineering/prompt-engineering/pulls).
+Encontrou um erro ou tem uma sugestão? Por favor, abra uma [issue](https://github.com/EYLatamSouth/beyondlabs-prompt-engineering/issues) ou envie um [pull request](https://github.com/EYLatamSouth/beyondlabs-prompt-engineering/pulls).
 
 ---
 

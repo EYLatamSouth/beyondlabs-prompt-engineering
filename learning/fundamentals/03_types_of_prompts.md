@@ -1,17 +1,24 @@
 # Tipos de Prompts em Engenharia de Prompt
 
 ## Índice
-- [Introdução](#introdução)
-- [1. Prompts de Instrução Direta](#1-prompts-de-instrução-direta)
-- [2. Prompts de Contexto](#2-prompts-de-contexto)
-- [3. Prompts de Poucos Exemplos (Few-Shot)](#3-prompts-de-poucos-exemplos-few-shot)
-- [4. Prompts de Cadeia de Pensamento (Chain-of-Thought)](#4-prompts-de-cadeia-de-pensamento-chain-of-thought)
-- [5. Prompts de Refinamento Iterativo](#5-prompts-de-refinamento-iterativo)
-- [Comparação Visual dos Tipos de Prompts](#comparação-visual-dos-tipos-de-prompts)
-- [Conclusão](#conclusão)
-- [Navegação](#navegação)
-- [Tópicos Relacionados](#tópicos-relacionados)
-- [Contribuição](#contribuição)
+- [Tipos de Prompts em Engenharia de Prompt](#tipos-de-prompts-em-engenharia-de-prompt)
+  - [Índice](#índice)
+  - [Introdução](#introdução)
+  - [1. Prompts de Instrução Direta](#1-prompts-de-instrução-direta)
+    - [Exemplo:](#exemplo)
+  - [2. Prompts de Contexto](#2-prompts-de-contexto)
+    - [Exemplo:](#exemplo-1)
+  - [3. Prompts de Poucos Exemplos (Few-Shot)](#3-prompts-de-poucos-exemplos-few-shot)
+    - [Exemplo:](#exemplo-2)
+  - [4. Prompts de Cadeia de Pensamento (Chain-of-Thought)](#4-prompts-de-cadeia-de-pensamento-chain-of-thought)
+    - [Exemplo:](#exemplo-3)
+  - [5. Prompts de Refinamento Iterativo](#5-prompts-de-refinamento-iterativo)
+    - [Exemplo:](#exemplo-4)
+  - [Comparação Visual dos Tipos de Prompts](#comparação-visual-dos-tipos-de-prompts)
+    - [Conclusão](#conclusão)
+  - [Navegação](#navegação)
+  - [Tópicos Relacionados](#tópicos-relacionados)
+  - [Contribuição](#contribuição)
 
 ## Introdução
 
@@ -226,7 +233,7 @@ Lembre-se, a escolha do tipo de prompt deve ser guiada pelo contexto específico
 
 ## Contribuição
 
-Encontrou um erro ou tem uma sugestão? Por favor, abra uma [issue](https://github.com/beyondlabs-prompt-engineering/prompt-engineering/issues) ou envie um [pull request](https://github.com/beyondlabs-prompt-engineering/prompt-engineering/pulls).
+Encontrou um erro ou tem uma sugestão? Por favor, abra uma [issue](https://github.com/EYLatamSouth/beyondlabs-prompt-engineering/issues) ou envie um [pull request](https://github.com/EYLatamSouth/beyondlabs-prompt-engineering/pulls).
 
 ---
 
