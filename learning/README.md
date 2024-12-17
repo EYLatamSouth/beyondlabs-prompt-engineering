@@ -47,7 +47,7 @@ Sua experiência e insights são valiosos! Aqui estão algumas maneiras de contr
 5. 🚀 Faça push para a branch (`git push origin feature/AmazingFeature`)
 6. 🔍 Abra um Pull Request
 
-Para diretrizes detalhadas, confira nosso [Guia de Contribuição](./assets/utils/NOT_FOUND.md).
+Para diretrizes detalhadas, confira nosso [Guia de Contribuição](../assets/utils/NOT_FOUND.md).
 
 ## 📚 Recursos Adicionais
 
