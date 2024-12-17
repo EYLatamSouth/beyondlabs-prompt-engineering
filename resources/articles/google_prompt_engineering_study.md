@@ -1,11 +1,13 @@
 # Google Prompt Engineering Study
 
 ## Índice
-- [Fonte Principal](#fonte-principal)
-- [Pontos-chave](#pontos-chave)
-- [Aplicações em Prompt Engineering](#aplicações-em-prompt-engineering)
-- [Limitações e Considerações](#limitações-e-considerações)
-- [Navegação](#navegação)
+- [Google Prompt Engineering Study](#google-prompt-engineering-study)
+  - [Índice](#índice)
+  - [Fonte Principal](#fonte-principal)
+  - [Pontos-chave](#pontos-chave)
+  - [Aplicações em Prompt Engineering](#aplicações-em-prompt-engineering)
+  - [Limitações e Considerações](#limitações-e-considerações)
+  - [Navegação](#navegação)
 
 ## Fonte Principal
 Artigo: "Prompt Engineering for Large Language Models: A Survey"
@@ -46,7 +48,7 @@ Link: https://arxiv.org/abs/2303.18223
 
 ## Navegação
 - [Anterior: OpenAI GPT Best Practices](openai_gpt_best_practices.md)
-- [Próximo: Constitutional AI - Anthropic](constitutional_ai_anthropic.md)
+- [Próximo: Constitutional AI - Anthropic](anthropic_constitutional_ai.md)
 - [Voltar para Articles](..)
 
 <div align="center">
