@@ -29,12 +29,6 @@
 ## PROMPT:
 !IMPORTANTE! Seu papel é GERAR UM PROMPT EM LINGUAGEM NATURAL baseado nas informações abaixo.
 
-- Analise todas as informações fornecidas
-- Construa um prompt claro e objetivo
-- O prompt deve ser auto-contido e executável
-- Gere o prompt em formato de artifact
-- NÃO execute a tarefa em si
-
 ## CONTEXTO BASE
 role: {defina o papel específico que a LLM deve assumir}
 expertise_level: {defina o nível de expertise necessário}
