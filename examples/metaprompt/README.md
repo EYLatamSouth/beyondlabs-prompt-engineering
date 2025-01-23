@@ -1,4 +1,4 @@
-# 🚀 Meta-Prompt Accelerator: Exemplos e Templates
+# 🚀 BeyondLabs Meta-Prompt Accelerator: Exemplos e Templates
 
 Bem-vindo à biblioteca de exemplos do Meta-Prompt Accelerator - seu guia definitivo para criar prompts altamente precisos e contextualizados.
 
@@ -65,6 +65,68 @@ Cada exemplo fornecerá:
 - Seja o mais específico possível ao preencher os campos
 - Utilize linguagem clara e direta
 - Detalhe o máximo possível o contexto e objetivo
+
+## 🔑 Guia Definitivo das Keys do Meta-Prompt
+
+### Contexto Base
+- **role**: Papel específico que você deseja que a IA assuma (ex: Desenvolvedor, Analista, Consultor)
+- **expertise_level**: Nível de conhecimento ou experiência necessário para a tarefa
+- **knowledge_domains**: Áreas de conhecimento relevantes para o prompt
+- **domain_context**: Contexto específico do ambiente ou situação
+- **industry_sector**: Setor ou área de atuação (ex: Tecnologia, Saúde, Educação)
+- **target_market**: Público-alvo ou mercado específico
+
+### Objetivos e Restrições
+- **primary_goal**: Objetivo principal que você quer alcançar
+- **secondary_goals**: Objetivos adicionais ou complementares
+- **constraints**: Limitações ou restrições a serem consideradas
+- **non_goals**: O que NÃO deve ser feito ou considerado
+- **success_criteria**: Como você vai medir o sucesso da tarefa
+- **risk_factors**: Possíveis riscos ou desafios
+- **expected_impact**: Resultado ou impacto esperado
+
+### Estilo e Comunicação
+- **tone**: Tom da comunicação (formal, informal, técnico)
+- **audience**: Público que vai receber ou ler o conteúdo
+- **communication_style**: Estilo de comunicação desejado
+- **complexity_level**: Nível de complexidade da linguagem
+- **cultural_aspects**: Considerações culturais importantes
+- **accessibility_requirements**: Necessidades de acessibilidade
+
+### Estrutura de Saída
+- **output_format**: Formato do resultado final
+- **primary_sections**: Seções principais esperadas
+- **secondary_sections**: Seções complementares
+- **visualization_needs**: Necessidades de representação visual
+- **supplementary_materials**: Materiais adicionais necessários
+- **localization_needs**: Adaptações para diferentes contextos
+
+### Critérios de Qualidade
+- **quality_standards**: Padrões de qualidade a serem seguidos
+- **validation_criteria**: Como validar o resultado
+- **compliance_needs**: Requisitos de conformidade
+- **performance_indicators**: Métricas para medir desempenho
+- **quality_assurance_steps**: Passos para garantir qualidade
+
+### Contextualização Operacional
+- **operational_context**: Ambiente operacional
+- **stakeholders**: Pessoas ou grupos envolvidos
+- **dependencies**: Dependências importantes
+- **constraints_operational**: Restrições operacionais
+- **resource_requirements**: Recursos necessários
+
+### Framework de Conhecimento
+- **methodologies**: Métodos ou abordagens a serem usadas
+- **industry_standards**: Padrões do setor
+- **reference_sources**: Fontes de referência
+- **domain_specific_requirements**: Requisitos específicos do domínio
+
+### Ciclo de Evolução
+- **feedback_mechanisms**: Como receber e processar feedback
+- **improvement_criteria**: Como melhorar continuamente
+- **review_requirements**: Requisitos de revisão
+- **adaptation_guidelines**: Diretrizes para adaptação
+- **version_control**: Controle de versões
 
 ## 🤝 Contribuições
 
