@@ -7,6 +7,8 @@ Bem-vindo à biblioteca de exemplos do Meta-Prompt Accelerator - seu guia defini
 Nossa coleção de exemplos está organizada em:
 
 - 📁 **templates**/: Repositório de exemplos práticos de Meta-Prompts
+- 📄 **metaprompt**: Contém a versão completa do BeyondLabs Meta-Prompt Accelerator, incluindo todas as keys e detalhes necessários para criar prompts complexos e contextualizados.
+- 📄 **minimal**: Inclui a versão mínima do metaprompt, focando nas informações essenciais para gerar prompts eficazes sem sobrecarga de detalhes.
 
 ### 📋 Conteúdo da Pasta Templates
 
